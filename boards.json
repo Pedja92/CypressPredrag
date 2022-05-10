@@ -1,0 +1,5 @@
+{
+  "createBoardTextBox": "[class='board_addBoard']",
+  "saveButton": "[data-cy='saveButton']",
+  "cancelButton":"[data-cy='cancelButton']"
+}
