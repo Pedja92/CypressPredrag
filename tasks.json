@@ -16,5 +16,8 @@
   "closeTask": "div [class='TaskModule_exit'] div[class='dropdown'] div[id='myDropdown'] :nth-child(1)",
   "taskCopyProperties": "div [class='TaskModule_exit'] div[class='dropdown'] div[id='myDropdown'] :nth-child(2)",
   "deleteTask": "div [class='TaskModule_exit'] div[class='dropdown'] div[id='myDropdown'] :nth-child(3)",
-  "addTaskDescription": "[class='TaskModule_description']"
+  "addTaskDescription": "[class='TaskModule_description']",
+  "uploadFile": "[class='dropzone-custom-content']",
+  "checkboxOnTask": "div[class='Task'] [type='checkbox']",
+  "deleteAttachment": "div[class='imagePreview'] svg[class='Cancel']"
 }
