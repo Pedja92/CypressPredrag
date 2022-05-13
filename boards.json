@@ -1,0 +1,7 @@
+{
+  "createBoard": "[id='new-board']",
+  "createBoardTextBox": "[class='board_addBoard']",
+  "saveButton": "[data-cy='saveButton']",
+  "cancelButton": "[data-cy='cancelButton']",
+  "starBoard": "[class='Star']"
+}

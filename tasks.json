@@ -1,0 +1,18 @@
+{
+  "addNewtaskLink": "[class='List_addTask']",
+  "textBoxForTaskName": "[data-id='newTaskTitle']",
+  "addButtonOnTaskCreation": "[class='List_newTaskOptions'] >Button",
+  "cancelButtonOnTaskCreation": "[class='List_newTaskOptions'] >svg",
+  "listOptionsDropdown": "div[class='ListContainer'] [class='dropdown']",
+  "deleteList": "[class='List'] [id='myDropdown'] :nth-child(1)",
+  "listCopyProperties": "[class='List'] [id='myDropdown'] :nth-child(2)",
+  "checkboxOnTask": "div[class='Task'] [type='checkbox']",
+  "openTaskDetails": "[class='List_tasks']",
+  "taskDetailsWindowDropdown": "div[class='TaskModule_exit'] [class='dropdown']",
+  "closeTask": "div [class='TaskModule_exit'] div[class='dropdown'] div[id='myDropdown'] :nth-child(1)",
+  "taskCopyProperties": "div [class='TaskModule_exit'] div[class='dropdown'] div[id='myDropdown'] :nth-child(2)",
+  "deleteTask": "div [class='TaskModule_exit'] div[class='dropdown'] div[id='myDropdown'] :nth-child(3)",
+  "addTaskDescription": "[class='TaskModule_description']",
+  "uploadFile": "[class='dropzone-custom-content']",
+  "deleteAttachment": "div[class='imagePreview'] svg[class='Cancel']"
+}
