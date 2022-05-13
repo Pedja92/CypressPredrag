@@ -1,8 +1,8 @@
 {
   "cancelButton": "[class='LoginModule_exit']",
-  "emailField": "[id='signupEmail']",
-  "passwordField": "[id='signupPassword']",
+  "emailinputField": "[id='signupEmail']",
+  "passwordInputField": "[id='signupPassword']",
   "welcomeMailButton": "input[class='checkmark']",
   "signUpButton": "[data-cy='signUpButtonOnRegisterModal']",
-  "goToLoginPage": "[data-cy='goToLoginPage']"
+  "goToLoginPageLink": "[data-cy='goToLoginPage']"
 }

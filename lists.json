@@ -1,0 +1,9 @@
+{
+  "addListButton": "[class='CreateList_title']",
+  "createListTextBox": "[class='CreateList_input']",
+  "cancelButtonOnList": "div[class='CreateList_options'] [class='Cancel']",
+  "saveButtonOnList": "div[class='CreateList_options'] [class='Button']",
+  "boardOptionsDropdownMenu": "div[class='boardDetail_info'] [class='dropdown']",
+  "deleteBoardButton": "div[class='boardDetail_info'] [class='delete']",
+  "copyPropertiesButton": "div[class='boardDetail_info'] div[class='dropdown'] div[id='myDropdown'] :last-child"
+}
